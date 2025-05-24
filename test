@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head><title>Test Table</title></head>
+<body>
+<h1>Test Table</h1>
+<table border="1">
+<tr><th>Model</th><th>Price</th></tr>
+<tr><td>Test A</td><td>$100</td></tr>
+</table>
+</body>
+</html>
